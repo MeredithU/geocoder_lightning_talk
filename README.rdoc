@@ -2,3 +2,5 @@
 
 Created an example using the Geocoder gem for my lightning talk.
 
+Resource: http://www.rubygeocoder.com/
+
