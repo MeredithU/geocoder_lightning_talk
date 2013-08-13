@@ -1,0 +1,4 @@
+== Lightning Talk on Geocoder gem
+
+Created an example using the Geocoder gem for my lightning talk.
+
